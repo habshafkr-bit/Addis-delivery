@@ -1,0 +1,6 @@
+{
+  "name": "Mini Market",
+  "description": "A delightful grocery and essentials shopping app with instant cart management, search, and checkout in SAR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
